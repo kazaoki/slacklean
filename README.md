@@ -10,12 +10,6 @@ Say "スラックリーン".
 npm i slacklean -g
 ```
 
-or
-
-```sh
-yarn global add slacklean
-```
-
 ## Usage
 
 ```sh
