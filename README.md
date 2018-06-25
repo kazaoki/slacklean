@@ -13,7 +13,7 @@ npm i slacklean -g
 or
 
 ```sh
-yarn gloabl add slacklean
+yarn global add slacklean
 ```
 
 ## Usage
