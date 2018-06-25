@@ -1,0 +1,20 @@
+{
+  "name": "slacklean",
+  "version": "0.0.1",
+  "description": "messages and files delete on slack channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kazaoki Lab.",
+  "license": "MIT",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "inquirer": "^6.0.0",
+    "optimist": "^0.6.1",
+    "request-promise": "^4.2.2"
+  },
+  "bin": {
+    "slacklean": "index.js"
+  }
+}
